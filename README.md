@@ -1,10 +1,10 @@
-<a href="https://tiramisunami.com"><img src="assets/hero.webp" alt="Tiramisunami presentation: desktop and mobile screens of the live store" width="100%"></a>
+<a href="https://tiramisunami.com"><img src="assets/cover.webp" alt="Tiramisunami: real desktop and mobile screens of tiramisunami.com" width="100%"></a>
 
 # Tiramisunami
 
 An artisan tiramisu shop built around menu discovery, custom boxes, chilled delivery and order tracking.
 
-**Live:** [tiramisunami.com](https://tiramisunami.com) &nbsp;·&nbsp; **More work:** [github.com/mertomeroglu](https://github.com/mertomeroglu)
+**[Visit tiramisunami.com ↗︎](https://tiramisunami.com)** &nbsp;·&nbsp; [More work by Mert Ömeroğlu](https://github.com/mertomeroglu)
 
 ### Highlights
 
@@ -17,8 +17,12 @@ An artisan tiramisu shop built around menu discovery, custom boxes, chilled deli
 
 Next.js · React · TypeScript · Tailwind CSS · Express · Socket.IO · Capacitor
 
-<p align="center"><a href="https://tiramisunami.com"><img src="assets/poster.webp" alt="Tiramisunami portrait presentation with desktop and mobile screens" width="420"></a></p>
+### Screens
+
+<a href="https://tiramisunami.com"><img src="assets/desktop.webp" alt="Tiramisunami desktop: real screen of tiramisunami.com" width="100%"></a>
+
+<p align="center"><img src="assets/mobile.webp" alt="Tiramisunami on a phone: real mobile screen of tiramisunami.com" width="300"></p>
 
 ---
 
-<sub>Presentation-only repository: this README and two presentation images built from real product screens. Application source and private configuration are not published here. Visual content and brand assets remain the property of their respective owners — see [LICENSE](LICENSE).</sub>
+<sub>Presentation-only repository. Images are real, unmodified product screens in a simple frame; application source and private configuration are not published here. Brands and visual content belong to their respective owners — see [LICENSE](LICENSE).</sub>
